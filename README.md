@@ -1,6 +1,6 @@
 # **apirestClients**
 - This project is a rest api created with Flask-Python that handles GET, POST, PUT and DELETE requests. 
-- All records in this project are stored in a real database.
+- All records in this project are stored in a SQL database.
 - This project is linked to the frontClients app found in this same profile.
 
 ------------
@@ -8,7 +8,7 @@
 
 - [x] Python
 - [x] Flask
-- [x] Database
+- [x] SQL database
 
 ------------
 - In the "About" section you can see the frontClients app in action.
